@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comp_grahic_lab_1", "comp_grahic_lab_1.csproj", "{743395D2-41A3-4CF3-9B1D-EEB929B9CC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743395D2-41A3-4CF3-9B1D-EEB929B9CC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743395D2-41A3-4CF3-9B1D-EEB929B9CC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743395D2-41A3-4CF3-9B1D-EEB929B9CC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743395D2-41A3-4CF3-9B1D-EEB929B9CC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E53DC4-FDED-467B-902A-B6731729E42D}
+	EndGlobalSection
+EndGlobal
