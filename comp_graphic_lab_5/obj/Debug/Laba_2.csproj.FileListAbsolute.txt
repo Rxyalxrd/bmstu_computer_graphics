@@ -1,0 +1,66 @@
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.FreeGlut.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.OpenGl.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.Platform.Windows.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.FreeGlut.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.OpenGl.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.Platform.Windows.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.AssemblyReference.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.Form1.resources
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.Properties.Resources.resources
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.GenerateResource.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CopyComplete
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Laba_2.exe.config
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Laba_2.pdb
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.FreeGlut.dll
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.OpenGl.dll
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.Platform.Windows.dll
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.FreeGlut.xml
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.OpenGl.xml
+C:\PM\компьютерная графика\Laba_5\bin\Debug\Tao.Platform.Windows.xml
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.csproj.AssemblyReference.cache
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.Form1.resources
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.Properties.Resources.resources
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.csproj.GenerateResource.cache
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.csproj.CopyComplete
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_5\obj\Debug\Laba_2.pdb
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Laba_2.exe.config
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Laba_2.exe
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Laba_2.pdb
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.FreeGlut.dll
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.OpenGl.dll
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.FreeGlut.xml
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.OpenGl.xml
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.csproj.AssemblyReference.cache
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.Form1.resources
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.Properties.Resources.resources
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.csproj.GenerateResource.cache
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.csproj.CopyComplete
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.exe
+C:\Users\sany2\OneDrive\university\5й семак\Кампутерная графика\Лаба 5\obj\Debug\Laba_2.pdb
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Laba_2.exe.config
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Laba_2.exe
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Laba_2.pdb
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Tao.FreeGlut.xml
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Tao.OpenGl.xml
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.csproj.AssemblyReference.cache
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.Form1.resources
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.Properties.Resources.resources
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.csproj.GenerateResource.cache
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.csproj.Up2Date
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.exe
+C:\Users\TheRo\.vscode\Dev\bmstu_computer_graphics\comp_graphic_lab_5\obj\Debug\Laba_2.pdb

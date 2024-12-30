@@ -1,0 +1,17 @@
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.FreeGlut.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.OpenGl.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.Platform.Windows.dll
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.FreeGlut.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.OpenGl.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\bin\Debug\Tao.Platform.Windows.xml
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.AssemblyReference.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.Form1.resources
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.Properties.Resources.resources
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.GenerateResource.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CopyComplete
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+C:\PM\компьютерная графика\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
